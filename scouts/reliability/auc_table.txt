@@ -1,0 +1,40 @@
+separateTR_d256_s123.npz
+   FD001 pooled=0.966 perH=0.915 brier=0.070 | FD003 pooled=0.960 perH=0.948 brier=0.083 | MBA pooled=0.881 perH=0.776 brier=0.083 | PSM pooled=0.586 perH=0.591 brier=0.271 | ETTm1 pooled=0.809 perH=0.791 brier=0.191
+separateTR_d256_s42.npz
+   FD001 pooled=0.965 perH=0.919 brier=0.073 | FD003 pooled=0.958 perH=0.944 brier=0.084 | MBA pooled=0.898 perH=0.759 brier=0.078 | PSM pooled=0.587 perH=0.604 brier=0.276 | ETTm1 pooled=0.805 perH=0.789 brier=0.193
+separate_d256_s123.npz
+   FD001 pooled=0.961 perH=0.908 brier=0.076 | FD003 pooled=0.955 perH=0.943 brier=0.086 | MBA pooled=0.893 perH=0.782 brier=0.080 | PSM pooled=0.592 perH=0.601 brier=0.274 | ETTm1 pooled=0.812 perH=0.795 brier=0.192
+separate_d256_s42.npz
+   FD001 pooled=0.962 perH=0.913 brier=0.076 | FD003 pooled=0.952 perH=0.937 brier=0.089 | MBA pooled=0.899 perH=0.754 brier=0.077 | PSM pooled=0.574 perH=0.597 brier=0.280 | ETTm1 pooled=0.806 perH=0.790 brier=0.193
+separate_d256_s456.npz
+   FD001 pooled=0.959 perH=0.911 brier=0.078 | FD003 pooled=0.956 perH=0.943 brier=0.085 | MBA pooled=0.885 perH=0.771 brier=0.083 | PSM pooled=0.587 perH=0.624 brier=0.273 | ETTm1 pooled=0.804 perH=0.780 brier=0.192
+sharedTR_d256_s123.npz
+   FD001 pooled=0.974 perH=0.932 brier=0.061 | FD003 pooled=0.951 perH=0.938 brier=0.090 | MBA pooled=0.903 perH=0.769 brier=0.075 | PSM pooled=0.546 perH=0.549 brier=0.271 | ETTm1 pooled=0.813 perH=0.797 brier=0.193
+sharedTR_d256_s42.npz
+   FD001 pooled=0.975 perH=0.937 brier=0.061 | FD003 pooled=0.953 perH=0.936 brier=0.089 | MBA pooled=0.914 perH=0.717 brier=0.070 | PSM pooled=0.563 perH=0.578 brier=0.304 | ETTm1 pooled=0.801 perH=0.785 brier=0.189
+shared_d256_s123.npz
+   FD001 pooled=0.952 perH=0.900 brier=0.083 | FD003 pooled=0.936 perH=0.921 brier=0.102 | MBA pooled=0.880 perH=0.787 brier=0.086 | PSM pooled=0.535 perH=0.482 brier=0.315 | ETTm1 pooled=0.816 perH=0.800 brier=0.199
+shared_d256_s42.npz
+   FD001 pooled=0.948 perH=0.888 brier=0.086 | FD003 pooled=0.929 perH=0.906 brier=0.110 | MBA pooled=0.876 perH=0.777 brier=0.087 | PSM pooled=0.548 perH=0.606 brier=0.314 | ETTm1 pooled=0.796 perH=0.776 brier=0.197
+shared_d256_s456.npz
+   FD001 pooled=0.948 perH=0.891 brier=0.088 | FD003 pooled=0.938 perH=0.923 brier=0.101 | MBA pooled=0.894 perH=0.759 brier=0.081 | PSM pooled=0.550 perH=0.599 brier=0.283 | ETTm1 pooled=0.795 perH=0.774 brier=0.194
+separate-joint_d256_s123.npz
+   FD001 pooled=0.891 perH=0.890 brier=0.126 | FD003 pooled=0.917 perH=0.900 brier=0.121 | MBA pooled=0.852 perH=0.717 brier=0.097 | PSM pooled=0.555 perH=0.584 brier=0.251 | ETTm1 pooled=0.801 perH=0.791 brier=0.197
+separate-joint_d256_s42.npz
+   FD001 pooled=0.884 perH=0.891 brier=0.130 | FD003 pooled=0.934 perH=0.917 brier=0.106 | MBA pooled=0.866 perH=0.715 brier=0.092 | PSM pooled=0.557 perH=0.563 brier=0.254 | ETTm1 pooled=0.769 perH=0.798 brier=0.218
+separate-own_d256_s123.npz
+   FD001 pooled=0.952 perH=0.901 brier=0.082 | FD003 pooled=0.927 perH=0.917 brier=0.112 | MBA pooled=0.895 perH=0.796 brier=0.078 | PSM pooled=0.550 perH=0.563 brier=0.273 | ETTm1 pooled=0.764 perH=0.791 brier=0.220
+separate-own_d256_s42.npz
+   FD001 pooled=0.954 perH=0.905 brier=0.081 | FD003 pooled=0.949 perH=0.935 brier=0.092 | MBA pooled=0.882 perH=0.762 brier=0.086 | PSM pooled=0.544 perH=0.562 brier=0.276 | ETTm1 pooled=0.808 perH=0.795 brier=0.199
+shared-joint_d256_s123.npz
+   FD001 pooled=0.902 perH=0.841 brier=0.158 | FD003 pooled=0.844 perH=0.862 brier=0.204 | MBA pooled=0.858 perH=0.768 brier=0.138 | PSM pooled=0.540 perH=0.540 brier=0.306 | ETTm1 pooled=0.698 perH=0.780 brier=0.275
+shared-joint_d256_s42.npz
+   FD001 pooled=0.900 perH=0.867 brier=0.158 | FD003 pooled=0.809 perH=0.815 brier=0.207 | MBA pooled=0.865 perH=0.593 brier=0.143 | PSM pooled=0.545 perH=0.575 brier=0.306 | ETTm1 pooled=0.654 perH=0.628 brier=0.280
+shared-lodo_d256_s123.npz
+   FD001 pooled=0.861 perH=0.614 brier=0.166 | FD003 pooled=0.730 perH=0.484 brier=0.253 | MBA pooled=0.852 perH=0.587 brier=0.189 | PSM pooled=0.536 perH=0.516 brier=0.344 | ETTm1 pooled=0.650 perH=0.619 brier=0.369
+shared-lodo_d256_s42.npz
+   FD001 pooled=0.877 perH=0.752 brier=0.175 | FD003 pooled=0.761 perH=0.585 brier=0.224 | MBA pooled=0.859 perH=0.310 brier=0.198 | PSM pooled=0.541 perH=0.575 brier=0.330 | ETTm1 pooled=0.634 perH=0.309 brier=0.354
+shared-own_d256_s123.npz
+   FD001 pooled=0.860 perH=0.890 brier=0.139 | FD003 pooled=0.793 perH=0.913 brier=0.186 | MBA pooled=0.851 perH=0.567 brier=0.097 | PSM pooled=0.536 perH=0.508 brier=0.287 | ETTm1 pooled=0.656 perH=0.802 brier=0.234
+shared-own_d256_s42.npz
+   FD001 pooled=0.868 perH=0.882 brier=0.135 | FD003 pooled=0.835 perH=0.885 brier=0.173 | MBA pooled=0.865 perH=0.781 brier=0.091 | PSM pooled=0.544 perH=0.599 brier=0.260 | ETTm1 pooled=0.671 perH=0.762 brier=0.234

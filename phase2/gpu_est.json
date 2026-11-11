@@ -1,0 +1,54 @@
+{
+ "FD001_pretrain_s_per_step_cpu": 0.1699824561403509,
+ "FD001_pretrain_windows_per_s_cpu": 371.5553720714212,
+ "FD003_pretrain_s_per_step_cpu": 0.20478947368421052,
+ "FD003_pretrain_windows_per_s_cpu": 308.4040092521203,
+ "core_s_per_pre_run_d256": {
+  "FD001": 418.2666666666667,
+  "FD003": 550.9333333333334,
+  "MBA": 96.16666666666667,
+  "PSM": 582.8,
+  "ETTm1": 711.3333333333333
+ },
+ "mean_core_s_per_run_d256": 471.9,
+ "a10g_vs_core_speedup_lower_bound_from_FD001": 5.382777777777778,
+ "stage2": {
+  "runs_d256": 350,
+  "core_hours_d256": 45.87916666666667,
+  "gpu_hours_d256_at_lower_bound_speedup": 8.52332542058004,
+  "width_rungs": "d=128,256,512,1024 (cost assumed \u221d params: x0.26, x1, x~3.9, x~15.5 of d=256)",
+  "gpu_hours_all_widths_at_lower_bound_speedup": 176.09190318918363
+ },
+ "stage3_per_pretraining_run": {
+  "2M": {
+   "core_hours": 1722.5781249999998,
+   "gpu_hours_low": 0.8612890624999999,
+   "gpu_hours_high": 3.4451562499999997
+  },
+  "10M": {
+   "core_hours": 7974.89872685185,
+   "gpu_hours_low": 3.987449363425925,
+   "gpu_hours_high": 15.9497974537037
+  },
+  "40M": {
+   "core_hours": 31899.5949074074,
+   "gpu_hours_low": 15.9497974537037,
+   "gpu_hours_high": 63.7991898148148
+  }
+ },
+ "stage3_assumptions": {
+  "gpu_over_core": [
+   500,
+   2000
+  ],
+  "corpus_windows_per_epoch": 3187500.0,
+  "epochs": 30,
+  "variates": 20,
+  "pretrain_conditions": 3,
+  "seeds": 3
+ },
+ "stage3_total_gpu_hours_3conds_3seeds_3sizes": [
+  187.18682291666664,
+  748.7472916666666
+ ]
+}
